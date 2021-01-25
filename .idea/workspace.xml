@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9baa7669-6fd6-4ec8-acdf-f2da204a0be3" name="Default Changelist" comment="" />
+    <list default="true" id="9baa7669-6fd6-4ec8-acdf-f2da204a0be3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/open-weather.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/open-weather.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IlluminatedCloud/open_weather/OfflineSymbolTable.zip" beforeDir="false" afterPath="$PROJECT_DIR$/IlluminatedCloud/open_weather/OfflineSymbolTable.zip" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Apex Class" />
+        <option value="Apex Metadata" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IlluminatedCloudWorkspaceSettings">
     <option name="moduleWorkspaceSettings">
@@ -19,8 +34,52 @@
         </entry>
       </map>
     </option>
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="connectionWorkspaceSettings">
+          <map>
+            <entry key="open-weather">
+              <value>
+                <ConnectionWorkspaceSettings>
+                  <option name="buildSuccessDatesBySourceRootRelativePath">
+                    <map>
+                      <entry key="APEXCLASS:DSD" value="1611587895654" />
+                      <entry key="APEXCLASS:DTOTOWEATHERMAPPER" value="1611589753000" />
+                      <entry key="APEXCLASS:WEATHERCALLOUT" value="1611592791317" />
+                      <entry key="APEXCLASS:WEATHERDTO" value="1611588910931" />
+                      <entry key="APEXCLASS:WEATHERMAPPER" value="1611592706683" />
+                    </map>
+                  </option>
+                  <option name="lastBuildScope" value="MODULE" />
+                  <option name="lastBuildViewToggles">
+                    <map>
+                      <entry key="RETRIEVE">
+                        <value>
+                          <BuildViewToggles>
+                            <option name="showLocalAndServer" value="true" />
+                            <option name="showLocalOnly" value="false" />
+                            <option name="showServerOnly" value="true" />
+                            <option name="showSubscribedByParent" value="true" />
+                            <option name="showSubscribedOnly" value="true" />
+                          </BuildViewToggles>
+                        </value>
+                      </entry>
+                    </map>
+                  </option>
+                </ConnectionWorkspaceSettings>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="retrieveAndMergeDefault" value="false" />
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1nYfGaEQnmr5lVckuvOno0zyO4T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="1" />
   </component>
@@ -48,7 +107,9 @@
       <option name="presentableId" value="Default" />
       <updated>1611571850026</updated>
       <workItem from="1611571851376" duration="275000" />
-      <workItem from="1611572184253" duration="20000" />
+      <workItem from="1611572184253" duration="1647000" />
+      <workItem from="1611587302826" duration="691000" />
+      <workItem from="1611587999985" duration="4776000" />
     </task>
     <servers />
   </component>
